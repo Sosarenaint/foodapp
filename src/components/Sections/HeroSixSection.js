@@ -30,8 +30,8 @@ const HeroSixSection = () => {
             data-aos-delay="150"
           >
             <div className={`${classes.text_div} px-2`}>
-              <h4 className={classes.header_text}>Paul James</h4>
-              <p className={classes.text_location}>Lagos state</p>
+              <h4 className={classes.header_text}>Esther Akinsoto</h4>
+              <p className={classes.text_location}>Oyo state</p>
               <p className={classes.text_content}>
                 With a Homely Eats meal, you can serve delectable, home-cooked
                 meals to your family and friends in any location, anytime.
@@ -48,8 +48,8 @@ const HeroSixSection = () => {
             data-aos-delay="300"
           >
             <div className={`${classes.text_div} px-2`}>
-              <h4 className={classes.header_text}>Mercy jude</h4>
-              <p className={classes.text_location}>kogi state</p>
+              <h4 className={classes.header_text}>Sanyaolu Oreoluwa</h4>
+              <p className={classes.text_location}>Ogun State</p>
               <p className={classes.text_content}>
                 {" "}
                 Be it a small gathering of friends or a large event with
@@ -67,8 +67,8 @@ const HeroSixSection = () => {
             data-aos-delay="450"
           >
             <div className={`${classes.text_div} px-2`}>
-              <h4 className={classes.header_text}>Lara one</h4>
-              <p className={classes.text_location}>Imo state</p>
+              <h4 className={classes.header_text}>Elizabeth Opeyemi</h4>
+              <p className={classes.text_location}>Lagos State</p>
               <p className={classes.text_content}>
                 No need to worry about any of this anymore with your app. Homely
                 Eats are made with the highest quality ingredients for you and
