@@ -1,6 +1,6 @@
 # End Result
 
-Click the link : https://sosarena.com/foodapp
+Click the link : https://foodapp.sosarena.com
 
 
 # Getting Started with Create React App
